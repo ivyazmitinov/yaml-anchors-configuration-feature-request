@@ -1,0 +1,106 @@
+x-common-part:
+  &common-part
+  some-property: 1
+
+specific-property-1:
+  <<: *common-part
+specific-property-2:
+  <<: *common-part
+specific-property-3:
+  <<: *common-part
+specific-property-4:
+  <<: *common-part
+specific-property-5:
+  <<: *common-part
+specific-property-6:
+  <<: *common-part
+specific-property-7:
+  <<: *common-part
+specific-property-8:
+  <<: *common-part
+specific-property-9:
+  <<: *common-part
+specific-property-10:
+  <<: *common-part
+specific-property-11:
+  <<: *common-part
+specific-property-12:
+  <<: *common-part
+specific-property-13:
+  <<: *common-part
+specific-property-14:
+  <<: *common-part
+specific-property-15:
+  <<: *common-part
+specific-property-16:
+  <<: *common-part
+specific-property-17:
+  <<: *common-part
+specific-property-18:
+  <<: *common-part
+specific-property-19:
+  <<: *common-part
+specific-property-20:
+  <<: *common-part
+specific-property-21:
+  <<: *common-part
+specific-property-22:
+  <<: *common-part
+specific-property-23:
+  <<: *common-part
+specific-property-24:
+  <<: *common-part
+specific-property-25:
+  <<: *common-part
+specific-property-26:
+  <<: *common-part
+specific-property-27:
+  <<: *common-part
+specific-property-28:
+  <<: *common-part
+specific-property-29:
+  <<: *common-part
+specific-property-30:
+  <<: *common-part
+specific-property-31:
+  <<: *common-part
+specific-property-32:
+  <<: *common-part
+specific-property-33:
+  <<: *common-part
+specific-property-34:
+  <<: *common-part
+specific-property-35:
+  <<: *common-part
+specific-property-36:
+  <<: *common-part
+specific-property-37:
+  <<: *common-part
+specific-property-38:
+  <<: *common-part
+specific-property-39:
+  <<: *common-part
+specific-property-40:
+  <<: *common-part
+specific-property-41:
+  <<: *common-part
+specific-property-42:
+  <<: *common-part
+specific-property-43:
+  <<: *common-part
+specific-property-44:
+  <<: *common-part
+specific-property-45:
+  <<: *common-part
+specific-property-46:
+  <<: *common-part
+specific-property-47:
+  <<: *common-part
+specific-property-48:
+  <<: *common-part
+specific-property-49:
+  <<: *common-part
+specific-property-50:
+  <<: *common-part
+specific-property-51:
+  <<: *common-part
